@@ -1,1 +1,1 @@
-# sample_project_collection
+样本项目集合
